@@ -12,6 +12,7 @@ background-color: green;
 nav{
 overflow: hidden;
 background-color: #333;
+border-radius: 10px;
 }
 
 nav a{
