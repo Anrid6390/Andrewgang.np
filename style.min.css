@@ -1,0 +1,39 @@
+header h1,footer h5{
+	padding: 10px;
+	background-color: greenyellow;
+	color: antiquewhite;
+	text-align: center;
+	font-family: monospace;
+	border: 1px solid black;
+	border-radius: 50px;
+}
+nav{
+	background-color: black;
+	border-radius: 5px;
+	padding: 5px 5px 5px 5px;
+	float: initial;
+	overflow: hidden;
+}
+nav a{
+	text-decoration: none;
+	color: antiquewhite;
+	margin: 21px;
+}
+footer h5:hover{
+	background-color:green;
+}
+h1:hover{
+	background-color:green;
+}
+nav a:hover{
+	color: yellowgreen;
+}
+html{
+	background-color: yellowgreen;
+}
+body{
+	background-color: darkolivegreen;
+	border-radius: 45px;
+	padding: 50px;
+	margin: 50px;		
+}
