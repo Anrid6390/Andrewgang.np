@@ -1,6 +1,6 @@
 header h1,footer h5{
 	padding: 10px;
-	background-color: greenyellow;
+	background-color: green;
 	color: antiquewhite;
 	text-align: center;
 	font-family: monospace;
@@ -36,4 +36,18 @@ body{
 	border-radius: 45px;
 	padding: 50px;
 	margin: 50px;		
+}
+.midd .mainarticle .subarticle{
+	background-color: darkgreen;
+	margin: 30px;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+}
+.midd .mainarticle .subarticle article h5{
+	color: burlywood;
+	font-family: fantasy;
+}
+.midd .mainarticle .subarticle article p{
+	color: antiquewhite;
+	font-family: monospace;
 }
